@@ -4,7 +4,7 @@ This is basic analysis of how ml/dl model came up to predict stocks.We know the 
 
 I have applied both linear models and RNN model to predict stock movement .
 
-Linear models :Input- previous day's data to predict tommorow's closing prices.
+Linear models :Input- previous days data to predict tommorow's closing prices.
 
 
 DL models: Input-n previous days data to predict m days future closing prices.
